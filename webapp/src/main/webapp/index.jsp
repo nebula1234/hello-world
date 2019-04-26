@@ -1,2 +1,2 @@
-<h1>Is this a good friday ??? !!! </h1>
+<h1>Is this a good friday or not ??? !!! </h1>
 
